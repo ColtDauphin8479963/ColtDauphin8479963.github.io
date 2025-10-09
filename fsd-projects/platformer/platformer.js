@@ -42,9 +42,9 @@ createCollectable('diamond',1370, 700);
 
 
     // TODO 3 - Create Collectables
-
-
-
+createCannon('bottom', 1000 , 2000); 
+createCannon('left', 290, 2500); 
+createCannon('bottom', 1230, 2000); 
     
     // TODO 4 - Create Cannons
 
