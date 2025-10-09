@@ -33,6 +33,7 @@ createPlatform(400, 550,100, 10);
 createPlatform(600, 480,100, 10);
 createPlatform(800, 400,100, 10);
 createPlatform(1150, 300,100, 10);
+createPlatform(200,425,100, 10);
     // TODO 2 - Create Platforms
 
 
