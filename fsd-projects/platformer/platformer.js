@@ -35,7 +35,9 @@ createPlatform(800, 400,100, 10);
 createPlatform(1150, 300,100, 10);
 createPlatform(200,425,100, 10);
     // TODO 2 - Create Platforms
-
+createCollectable('steve', 200, 390);
+createCollectable('max', 1150, 260);
+createCollectable('diamond',1370, 700);
 
 
 
